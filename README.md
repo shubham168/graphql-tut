@@ -55,6 +55,7 @@ npm run client
 graphql-tut/
 ├── server/          # GraphQL server code
 ├── client/          # GraphQL client code
+├── .gitignore
 ├── package.json
 └── README.md
 ```
